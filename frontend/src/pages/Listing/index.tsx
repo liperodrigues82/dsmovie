@@ -1,9 +1,9 @@
-
+import Pagination from "../../components/Pagination";
 
 function Listing() {
 
     return (
-        <h1>listgem</h1>
+        <Pagination />
     );
 }
 
